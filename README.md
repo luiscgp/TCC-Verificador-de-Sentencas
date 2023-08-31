@@ -1,1 +1,0 @@
-# TCC-Verificador-de-Sentencas
